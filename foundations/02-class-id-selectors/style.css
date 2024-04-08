@@ -1,0 +1,18 @@
+.texto-base{
+  font-family: "DejaVu Sans", Verdana, sans-serif;
+  background-color: salmon;
+  color: black;
+}
+#n2{
+  color: blue;
+  font-size: 32px;
+}
+#n3{
+  font-size: 24px;
+}
+#n4{
+  background-color: greenyellow;
+  color: black;
+  font-size: 24px;
+  font-weight: bold.
+}
